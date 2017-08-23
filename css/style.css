@@ -4,5 +4,24 @@
 
 .box {
   border: 1px solid black;
-  height: 150px;
+  height: 50px;
+  width: 50px;
+  font-size: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+.paint-o {
+	background-color: orange;
+}
+
+.paint-x {
+	background-color: teal;
+}
+
+.clicked{
+}
+
+.white {
+	background-color: white;
 }
